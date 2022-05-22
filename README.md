@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Link to website.
+https://polyxein-todolist.netlify.app/
+
+## About this project
+-this projects is a introduction remembering the bases in react using common hooks
+like useState, useEffect, useContext, useLocaltorage and portals.
+
 ## Available Scripts
 
 In the project directory, you can run:
