@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #15133C;
+  color: white;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+  color: white;
+}
